@@ -1,0 +1,13 @@
+{
+	"pack":{
+		"pack_format": 46,
+		"description": "Send help"
+	},
+	"language": {
+		"brain_rot": {
+			"name": "Brainrot",
+			"region": "Brainrot",
+			"bidirectional": false
+		}
+	}
+}
